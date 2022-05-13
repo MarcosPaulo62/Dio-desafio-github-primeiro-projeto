@@ -1,0 +1,43 @@
+# Visão geral do Ecossistema .NET
+
+### .NET X ASP.NET: Conceitos e características
+
+- **.Net -** Plataforma de desenvolvimento com diversas ferramentas, linguagens de programação e biblioteca que permitem o desenvolvimento de diversos tipos de aplicações.
+- **ASP.NET** - Framework que estende .NET para a criação de web apps.
+- **Sobre .Net:**
+    - Gratuita e de software livre
+    - Plataforma cruzada
+        - x64, x32, ARM64, ARM32, Windows, Linux, Mac, Mobile
+    - Tipos de aplicação:
+        - Web, Mobile, Desktop, Microservices, Cloud, Machine Learning, Jogos, Internet das coisas
+- **Sobre .NET - Suporte ao desenvolvedor**
+    - Ambientes de desenvolvimento (IDEs)
+        - Visual Studio (Mac e Windows)
+        - Visual Studio Code
+        - Codespaces (Online)
+    - Linguagens de programação
+        - C#
+        - F#
+        - Visual Basic
+    - Bibliotecas para desenvolvimento e execução de aplicações .NET
+        - SDK
+        - Runtime
+    - NUGET: Gerenciador de Pacotes
+    - Acesso a dados
+        - ORM → Entity Framework Core
+        - LINQ → consulta integrada à linguagem
+    - Ambientes CI/CD
+        - Github Actions
+        - Azure Devops
+        - Cake / Fake
+    - Gerenciamento Automático de memória
+- **Sobre ASP.NET e ASP.NET Core**
+    - Aplicações Web
+        - páginas web
+        - REST APIs
+        - microservices
+        - hubs
+    - Processamento de requisições web (C# e F#)
+    - Criação de páginas da web de forma dinâmica
+    - Bibliotecas para web patterns
+    - Sistema de autenticação Extensões de produtividade

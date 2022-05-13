@@ -1,0 +1,78 @@
+# Ferramentas e Linguagens
+
+### Ferramentas para desenvolvimento e utilitários
+
+- IDE: Ambiente de desenvolvimento integrado
+    - **Visual Studio**
+        - Criado e suportado pela Microsoft
+        - Executado em Windows
+        - Desenvolvimento de qualquer tipo de aplicação .NET
+        - 3 verdões:
+            - Community
+            - Professional
+            - Enterprise
+    - **Visual Studio for Mac**
+        - Versão para Mac voltado para desenvolvimento com .NET/ .NET core, Xamarin e Unity
+- Editor de código
+    - **Visual Studio Code**
+        - Editor gratuito e mais leve com extensões que permitem o desenvolvimento rápido em qualquer linguagem
+        - Construído em cima da versão open source “Code OSS”
+        - Multiplataforma
+        - Utilização de extensões de produtividade e suporte
+        - Customizável
+- Suíte de desenvolvimento integrada
+    - **OmniSharp**
+        - Experiência no desenvolvimento com .NET em diversos editores
+        - Plataforma Cruzada
+            - Atom
+            - Brackets
+            - Sublime Text
+            - Emacs
+            - Vim
+            - Visual Studio Code
+- Pacote de extensão
+    - **IONIDE**
+        - Extensão para VSCode que dá completo suporte para desenvolvimento com F#
+        - Plataforma cruzada e open source
+- IDE: Ambiente de desenvolvimento integrado
+    - **JetBrains Rider**
+        - Plataforma cruzada, porém com licença paga
+        - Desenvolvimento multiplataforma com .NET, ASP.NET, .NET Core, Xamarin, Unity, etc...
+        - Uso de tecnologia ReSharper para fornecer experiência semelhante às funcionalidades do Visual Studio
+- Console
+    - **Console**
+        - Alternativa para desenvolvimento via console
+        - Bem útil para de trabalhar com Visual Studio Code
+        - Incluída no SDK do .NET
+
+### Linguagens suportadas pela plataforma .NET
+
+- **C#**
+    - Mais popular
+    - Desenvolvimento de qualquer tipo de aplicação, para execução em qualquer plataforma
+    - Open source
+    - Baseada em C/C++, com influências bem fortes também do JAVA
+    - Orientada a objetos
+        - Abstração do problema, transformando em objetos as entidades do “mundo real”
+- **F#**
+    - Linguagem open-source para escrita de código sucinto, robusto e com ótimo desempenho
+    - Com suporte em Windows, Linux e macOS
+    - Mais utilizado para ciência de dados e aprendizagem de máquina
+    - Permite **paradigma funcional**, imperativo e orientado a objetos
+        - Enfatiza o uso de funções
+        - Expressões em vez de instruções
+        - Valores imutáveis em variáveis
+        - Programação declarativa sobre imperativa
+- **Visual Basic**
+    - Aperfeiçoamento do BASIC, uma linguagem dirigida a eventos
+    - Ainda consta como parte das linguagens mais utilizadas no mercado
+    - Linguagens derivadas
+        - VBScript: Linguagem default no ASP (Active Server Pages)
+        - Visual Basic .NET: Versão atual sem compatibilidades com versões antigas e orientada a objetos
+        - Visual Basic for Applications (VBA): útil para criação de macros e conhecida por fazer parte da família do Microsoft Office
+- Outras linguagens suportadas:
+    - **Javascript**
+    - **Typescript → desenvolvida pela Microsoft**
+    - **Python**
+    - **SQL**
+    - **C++**
